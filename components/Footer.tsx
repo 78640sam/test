@@ -93,8 +93,8 @@ const Footer = () => {
             </div>
 
             <p className="text-gray-400 mb-8 max-w-2xl mx-auto text-lg">
-              Crafting premium customized water bottles that blend style, functionality,
-              and environmental responsibility.
+              {/* Crafting premium customized water bottles that blend style, functionality,
+              and environmental responsibility. */}
             </p>
 
             {/* Social Links */}
