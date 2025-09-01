@@ -213,7 +213,7 @@ const Hero = () => {
             </span>
           </h1>
           <p className="text-xl sm:text-2xl lg:text-3xl text-blue-100 mb-8 font-light">
-            Premium Customized Water Bottles
+            {/* Premium Customized Water Bottles */}
           </p>
           <p className="text-lg sm:text-xl text-blue-200 mb-12 max-w-2xl mx-auto leading-relaxed">
             Discover the perfect blend of style, sustainability, and personalization. 
