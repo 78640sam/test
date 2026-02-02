@@ -6,7 +6,6 @@ import { Droplet, Sparkles, Heart } from 'lucide-react';
 const About = () => {
   const [isVisible, setIsVisible] = useState(false);
   const sectionRef = useRef<HTMLElement>(null);
-
   useEffect(() => {
     const observer = new IntersectionObserver(
       ([entry]) => {
