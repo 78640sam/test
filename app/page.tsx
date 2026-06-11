@@ -22,7 +22,7 @@ export default function Home() {
     <main className="min-h-screen bg-gradient-to-br from-blue-50 via-cyan-50 to-blue-100 overflow-x-hidden">
       <Hero />
       {/* <About /> */}
-      {/* <Features /> */}
+      {/* <Features /> this is hide*/}
       <Newsletter />
       <Footer />
     </main>
